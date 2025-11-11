@@ -1,4 +1,4 @@
 // config.js
 window.APP_CONFIG = {
-  WEB_APP_URL: "https://script.google.com/macros/s/AKfycbzd06ZdPVzPDbsY3jnMDIsdGuTo9n18RXDpfMzfu45eZpSZ7dMf9sQ0YVWr50g2HHC8/exec"
+  WEB_APP_URL: "https://script.google.com/macros/s/AKfycbxu0YcvbNcr7o-QPhAYe7wZBUXI-7r4jrrXB2Vdd9g9QnHjDvhYnquGiomtbvdY5E1i/exec"
 };
